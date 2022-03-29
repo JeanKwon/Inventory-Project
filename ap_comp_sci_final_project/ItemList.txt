@@ -1,0 +1,3 @@
+[Item ID : 111 Item Name : pot Item quantity : 35 Item price : 1.2 Location :  r-7 Pen Lead Size : 0.5]
+[]
+[]
